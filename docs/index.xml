@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on P??roda jako kulturn? fenom?n</title>
+    <title>Home on ?ist? vzduch</title>
     <link>http://jan-martinek.github.io/hugo-start/</link>
-    <description>Recent content in Home on P??roda jako kulturn? fenom?n</description>
+    <description>Recent content in Home on ?ist? vzduch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jan-martinek.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All albums of The Beatles</title>
+      <link>http://jan-martinek.github.io/hugo-start/post/o-n%C3%A1s/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jan-martinek.github.io/hugo-start/post/o-n%C3%A1s/</guid>
+      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>All albums of The Beatles</title>
@@ -34,12 +45,14 @@ To add new posts, simply add a file in the content/post directory that follows t
     
     <item>
       <title>About</title>
-      <link>http://jan-martinek.github.io/hugo-start/about/</link>
+      <link>http://jan-martinek.github.io/hugo-start/o-projektu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jan-martinek.github.io/hugo-start/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <guid>http://jan-martinek.github.io/hugo-start/o-projektu/</guid>
+      <description>Web „Čistý vzduch“ Pro cílovou skupinu 20 až 30 let
+Cílem našeho webu bude informovat návštěvníky o přírodě a cestě k ní. Budeme uvádět tipy kam do přírody vyrazit. Mezi destinacemi budou městské i zámecké parky, komunitní zahrady, národní parky, chráněné krajinné oblasti a další zajímavá místa. Krom konkrétních míst přidáme i tipy jak se do daných lokalit snadno dopravit.
+Jako webové zdroje nám mohou posloužit: • http://www.env.cz/cz/zvlaste_chranena_uzemi
+• https://www.</description>
     </item>
     
   </channel>
