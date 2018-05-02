@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Beatles</title>
-      <link>http://jan-martinek.github.io/hugo-start/tags/beatles/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://jan-martinek.github.io/hugo-start/tags/beatles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data</title>
       <link>http://jan-martinek.github.io/hugo-start/tags/data/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
@@ -41,9 +32,36 @@
     <item>
       <title>Hugo</title>
       <link>http://jan-martinek.github.io/hugo-start/tags/hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://jan-martinek.github.io/hugo-start/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeskyně</title>
+      <link>http://jan-martinek.github.io/hugo-start/tags/jeskyn%C4%9B/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jan-martinek.github.io/hugo-start/tags/jeskyn%C4%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lanová Dráha</title>
+      <link>http://jan-martinek.github.io/hugo-start/tags/lanov%C3%A1-dr%C3%A1ha/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jan-martinek.github.io/hugo-start/tags/lanov%C3%A1-dr%C3%A1ha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macocha</title>
+      <link>http://jan-martinek.github.io/hugo-start/tags/macocha/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jan-martinek.github.io/hugo-start/tags/macocha/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,21 @@
     <description>Recent content in Hugo on ?ist? vzduch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jan-martinek.github.io/hugo-start/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Macocha</title>
+      <link>http://jan-martinek.github.io/hugo-start/post/macocha/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://jan-martinek.github.io/hugo-start/post/macocha/</guid>
+      <description>Jak se sem dostanu? Nejsnazší je dojet k Macoše autem. Poblíž Horního můstku se nachází několik prostorných parkovišť. Odtud lze dojít ke vstupu do jeskyně pěšky nebo můžete využít lanovku.
+Obrázek- C:\Nami\hugo-start\content\post\Macocha\lanovka.jpg
+Pokud pojedete autobusem doporučuji zastávku ve Vilémovicích – Vilémovice, Macocha rozc. 2.0 nebo v Blansku – Blansko, Skalní Mlýn. Dobře si ale prohlédněte jízdní řád. Autobusy sem nezajíždí zrovna často. Ze zastávky Skalní Mlýn lze využít dopravu turistickým vláčkem až ke vstupu do jeskyně.</description>
+    </item>
     
     <item>
       <title>Welcome to Hugo!</title>

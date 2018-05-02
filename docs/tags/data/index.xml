@@ -12,14 +12,12 @@
     
     
     <item>
-      <title>All albums of The Beatles</title>
+      <title>Nic</title>
       <link>http://jan-martinek.github.io/hugo-start/post/another-post/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://jan-martinek.github.io/hugo-start/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
   </channel>
