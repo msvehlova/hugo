@@ -1,0 +1,5 @@
+---
+Jarní procházka po brněnských parcích
+---
+
+Sezóna rozkvetlých stromů se pomalu blíží ke konci. Kam se za nimi vydat? V Brně se nachází mnoho parků sadů či alejí. Procházku po několika vybraných brněnských parcích můžeme začít na krásném Moravském náměstí plném stromů. Pokračovat můžeme do Tyršova sadu, který se nachází pěšky asi 12 minut od Moravského náměstí. Od něj se můžete vydat k parku Lužánky, který se nachází od Tyršova sadu pouhých 5 minut. Po procházce po jednom z největších parků Brna můžete svojí procházku směřovat do zahrady vily Löw-Beer. Ta se nachází hned vedle Lužánek na druhé straně ulice Drobného. Procházku můžeme zakončit v Schreberových zahrádkách, které se od vily Löw-Beer nachází asi 20 minut. Odtud se dostaneme na Českou ze zastávky Tomanova tramvají číslo 9. a 11. Celá trasa bez zastávek trvá tak hodinu, S pomalejším tempem a pozorným pozorováním okolí se dá vycházka zvládnout za hodiny dvě.
