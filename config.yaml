@@ -1,5 +1,5 @@
-title: ?ist? vzduch 
-baseURL: http://jan-martinek.github.io/hugo-start/
+title: Čistý vzduch 
+baseURL: https://msvehlova.github.io/hugo-start/post/o-n%C3%A1s
 languageCode: cs-cz
 publishDir: docs
 
@@ -14,6 +14,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
+  description: Kudy, kam, za čím a kdy vyrazit do přírody.
   authors: Authors
 

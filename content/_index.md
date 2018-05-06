@@ -1,10 +1,11 @@
 ---
-title: Home
+title: Úvod
 ---
 
-# Hello World! (It works!)
+# Ahoj, světe!
 
-This are the contents of the Hugo start website front page.
+Zdraví Vás tři KISK studentky, které milují přírodu a budou se Vás snažit do ní tahy zatáhnout!
+Cílem našeho webu bude informovat návštěvníky o přírodě a cestě k ní. Budeme uvádět tipy kam do přírody vyrazit. Mezi destinacemi budou městské i zámecké parky, komunitní zahrady, národní parky, chráněné krajinné oblasti a další zajímavá místa. Krom konkrétních míst přidáme i tipy jak se do daných lokalit snadno dopravit.
 
 ## Something to read: Sonnet LXVI.
 
