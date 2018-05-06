@@ -1,7 +1,9 @@
 title: Čistý vzduch 
-baseURL: https://msvehlova.github.io/hugo-start/post/o-n%C3%A1s
+baseURL: https://msvehlova.github.io/hugo-start/
+=======
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics = "UA-118022037-1"
 
 menu:
   main:
