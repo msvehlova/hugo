@@ -2,6 +2,7 @@ title: Čistý vzduch
 baseURL: https://msvehlova.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics = "UA-118022037-1"
 
 menu:
   main:
