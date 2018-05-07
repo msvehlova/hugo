@@ -1,5 +1,6 @@
-title: ?ist? vzduch 
+title: Čistý vzduch 
 baseURL: https://msvehlova.github.io/hugo-start/
+=======
 languageCode: cs-cz
 publishDir: docs
 googleAnalytics = "UA-118022037-1"
@@ -15,6 +16,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
+  description: Kudy, kam, za čím a kdy vyrazit do přírody.
   authors: Authors
 
