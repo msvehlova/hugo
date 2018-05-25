@@ -15,3 +15,4 @@ Youtube videa:
 Jedná se zdroje, které taktéž, jak je vidět u těchto odkazů můžou pomoci s vyhledáním nových míst, která jsou spjata s přírodou a která v normálních publikacích nenaleznete a nepíše se o nich ani webech, zajímajících se o podobná témata. Lze si z nich tedy vzít mnoho nových informací.
 • https://www.youtube.com/watch?v=t3w4jMKMd6Q
 • https://www.youtube.com/playlist list=PLtXlh6PIKxKGW88c117pppjD3LKbnEHQq
+• https://www.youtube.com/watch?v=Jf8-53c3mhY
